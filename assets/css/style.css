@@ -8,14 +8,16 @@ body {
   background-size: cover;
   background-position: center;
   height: 100vh;
-  
-  
-  
-  
+  text-align: center;
+  color: #926239;
   
 }
-.hero-heading {
+h1{
+  font-size: 50px;
   
+}
+button {
+  color: #926239;
 }
 
 .footer div {
