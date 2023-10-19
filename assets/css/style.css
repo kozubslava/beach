@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.hero {
+  background-image: url(../images/beach.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  
+  
+  
+  
+  
+}
+.hero-heading {
+  
+}
+
+.footer div {
+  display: inline-block;
+  border: 1px solid blue;
+  width: 33.3% 
+
+
+}
+
+.main {
+  border: 1px solid red;
+}
+
+
