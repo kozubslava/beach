@@ -23,6 +23,20 @@ button {
   border-radius: 10%;
 }
 
+.mein {
+  
+}
+.art1 {
+  padding: 20px;
+  background: #926239;
+  color: white;
+  text-align: center;
+
+}
+
+.art2 {
+  padding: 20px;
+}
 .footer div {
   display: inline-block;
   border: 1px solid blue;
