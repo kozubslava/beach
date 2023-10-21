@@ -1,6 +1,7 @@
 body {
   margin: 0;
   box-sizing: border-box;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 .hero {
@@ -10,43 +11,59 @@ body {
   height: 100vh;
   text-align: center;
   color: #926239;
-  
 }
+
 h1{
   font-size: 50px;
- 
-  
 }
+
 button {
   font-size: 20px;
   color: #926239;
   border-radius: 10%;
+  font-size: 17px;
 }
 
-.mein {
-  
+.main {
+  font-size: 17px;
+  line-height: 1.6;
 }
+
 .art1 {
   padding: 20px;
   background: #926239;
   color: white;
   text-align: center;
-
 }
+
 
 .art2 {
   padding: 20px;
+  text-align: center;
+  color: #926239
 }
+
 .footer div {
   display: inline-block;
-  border: 1px solid blue;
-  width: 33.3% 
-
-
+  font-size: 16px;
+  border:0;
+  width: 33%;
+  font-size: 17px;
+  line-height: 1.6;
 }
 
-.main {
-  border: 1px solid red;
+.div1{
+  background: #926239;
+  color: white;
+  text-align: center;
 }
 
+.div2{
+  color: #926239
+}
 
+.div3{
+  background: #926239;
+  color: white;
+  text-align: center;
+}
